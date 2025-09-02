@@ -1,17 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
 // 
 // Create Date: 08/19/2024 01:19:05 PM
-// Design Name: 
 // Module Name: Structural_Modeling_tb
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
+// Project Name: ECE 128 Lab 1
+// Description: This is the testbench file to run and synthesize the different models of an 8 to 1 mux and to analyze their wave forms to see if they behave accordingly. 
 // 
-// Dependencies: 
 // 
 // Revision:
 // Revision 0.01 - File Created
