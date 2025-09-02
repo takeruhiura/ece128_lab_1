@@ -1,17 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
 // 
 // Create Date: 09/02/2025 02:09:16 PM
-// Design Name: 
 // Module Name: Dataflow_Modeling
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
+// Project Name: ECE Lab 1
+// Description: This is a file for the dataflow modeling to program the FPGA as an 8 to 1 mux. 
 // 
 // Revision:
 // Revision 0.01 - File Created
