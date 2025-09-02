@@ -1,17 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
 // 
 // Create Date: 09/02/2025 02:04:16 PM
-// Design Name: 
 // Module Name: Behavioral_Modeling
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
+// Project Name: ECE 128 Lab 1
+// Description: This file contains the module for the behavioral modeling of an 8 to 1 mux.
 // 
-// Dependencies: 
 // 
 // Revision:
 // Revision 0.01 - File Created
